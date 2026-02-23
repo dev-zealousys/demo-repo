@@ -4,4 +4,3 @@ This is new line for first commit <br>
 This is the third line for second commit <br>
 This is sample text <br>
 This is another sample text <br>
-Trying the reset commit
